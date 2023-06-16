@@ -14,7 +14,7 @@
       {"img": "images/icons/ic_gloves.svg" ,"title": "Use of <b>personal protective equipment</b> by workers", "info": ""},
       {"img": "images/icons/ic_training_1.svg", "title": "<b>Training properly</b> the food handlers", "info": ""},
       {"img": "images/icons/ic_plan.svg", "title": "Regular and proper official <b>controls</b> by competent authorities", "info": ""},
-      {"img": "images/icons/ic_milk.svg", "title": "Appling appropriate <b>heat/filtration treatments</b> to raw milk", "info": ""}
+      {"img": "images/icons/ic_milk.svg", "title": "Appling appropriate <b>heat-treatments</b> to raw milk", "info": ""}
     ]
   },
   "distribution": {
@@ -29,7 +29,7 @@
     "collection": [
       {"img": "images/icons/ic_key.svg", "title": "Respecting the <br><b>Five Keys</b><br>to <b>Safer Food</b>", "info": "<ol><li>Keep clean</li><li>Separate raw and cooked</li><li>Cook thoroughly</li><li>Keep food at safe temperatures</li><li>Use safe water and raw materials</li></ol><small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"},
       {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "<b>Avoiding</b> the consumption of <b>raw/unpasteurised milk</b> and products thereof in and from <b>endemic areas</b>", "info": ""},
-      {"img": "images/icons/ic_avoid_raw_meat.svg", "title": "<b>Boiling</b> raw drinking <b>milk</b>", "info": ""}
+      {"img": "images/icons/ic_milk.svg", "title": "<b>Boiling</b> raw drinking <b>milk</b>", "info": ""}
     ]
   }
 }
